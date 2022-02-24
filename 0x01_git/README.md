@@ -1,2 +1,2 @@
-### This is a project on how to setup your git and github account                           
-### this is include creating a file directory on your computer named *alx-pre_course* and then moving it to your github account repository named *alx-pre_course.git* 
+# This is a project on how to set your git and github account
+### This include creating a file directory on your computer named *alx-pre_course* and then moving it to your github account repository named *alx-pre_couse*
